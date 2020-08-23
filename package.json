@@ -1,0 +1,19 @@
+{
+  "name": "web-image-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "crawler": "^1.2.2",
+    "csv-parser": "^2.3.3",
+    "csv-writer": "^1.6.0",
+    "node-fetch": "^2.6.0"
+  }
+}
